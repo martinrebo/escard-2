@@ -1,6 +1,6 @@
 # ESCard
 - https://escard.tk/
--Tinder Style Javascript Cards 
+- Tinder Style Javascript Cards 
 
 ### Suggestions 
 - You can suggests New Cards by using the Suggestion Form on the App
