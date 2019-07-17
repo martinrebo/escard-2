@@ -16,4 +16,6 @@ The app was created using:
 - firebase 
 - Semantic UI
 
+### Repo
+https://github.com/martinrebo/escard-private
 
